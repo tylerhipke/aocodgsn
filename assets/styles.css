@@ -1,3 +1,40 @@
+body{
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue Bold', 'Arial Black', sans-serif;
+    color: #000000;
+}
+
+div, p, a{
+    font-family: 'Helvetica Neue Light', 'Arial', sans-serif;    
+    color: #000000;
+}
+
+.text_large{
+    font-size: 40px;
+}
+
+.text_medium{
+    font-size: 20px;
+}
+
+.text_small{
+    font-size: 10px;
+}
+
 .navbar-item{
     width: 200px;
 }
+
+.home_img{
+    height: 40em;
+}
+
+#hero{
+    width: 100%;
+}
+
+ main{
+     padding-top: 104px;
+ }
