@@ -1,3 +1,3 @@
-$(".map_btn").click(function(){
+$(".map_btn").on("click",function(){
     console.log("button clicked");
 });

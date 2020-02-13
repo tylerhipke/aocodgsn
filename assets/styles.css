@@ -49,13 +49,14 @@ div, p, a{
     bottom: 12%;
     left: 0;
     width: 20%;
-    height: 17%;
+    height: 16%;
 }
 
 #jj_end-table-left{
     position: absolute;
     left: 13%;
-    bottom: 30%;
+    bottom: 27%;
+    height: 7%;
 }
 
 #jj_end-table-middle{
