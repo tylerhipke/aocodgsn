@@ -32,10 +32,10 @@ div, p, a{
 }
 
 .map_btn{
-    /* color: purple;
+    color: purple;
     background: transparent;
     border: none !important;
-    font-size:0;  */
+    font-size:0; 
 }
 #jj_grey-chair-right{
     position: absolute;
