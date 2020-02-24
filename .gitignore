@@ -6,6 +6,9 @@
 .ds_store
 ._*
 
+node_modules
+
+
 # User-specific files
 *.rsuser
 *.suo
