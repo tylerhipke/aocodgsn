@@ -1,0 +1,118 @@
+body{
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue Bold', 'Arial Black', sans-serif;
+    color: #000000;
+}
+
+div, p, a{
+    font-family: 'Helvetica Neue Light', 'Arial', sans-serif;    
+    color: #000000;
+}
+
+ main{
+     padding-top: 104px;
+ }
+
+.text_large{
+    font-size: 40px;
+}
+
+.text_medium{
+    font-size: 20px;
+}
+
+.text_small{
+    font-size: 10px;
+}
+
+.navbar-item{
+    width: 200px;
+}
+
+.map_btn{
+    color: purple;
+    background: transparent;
+    border: none !important;
+    font-size:0; 
+}
+#jj_grey-chair-right{
+    position: absolute;
+    top: 70%;
+    right: 40%;
+    width: 20%;
+    height: 20%;
+}
+#jj_grey-chair-left{
+    position: absolute;
+    bottom: 12%;
+    left: 0;
+    width: 20%;
+    height: 16%;
+}
+
+#jj_end-table-left{
+    position: absolute;
+    left: 13%;
+    bottom: 27%;
+    height: 7%;
+}
+
+#jj_end-table-middle{
+    position: absolute;
+    bottom: 19%;
+    left: 30%;
+    width: 7%;
+
+}
+
+#jj_media-table-right{
+    position: absolute;
+    bottom: 14%;
+    right: 2%;
+    height: 22%;
+    width: 16%;
+}
+
+#jj_couch-grey-right{
+    position: absolute;
+    right: 18%;
+    bottom: 22%;
+    height: 20%;
+    width: 16%;
+}
+
+#jj_lamp-right{
+    position: absolute;
+    top: 27%;
+    right: 30%;
+    height: 5%;
+}
+
+#jj_lamp-left{
+    position: absolute;
+    top: 13%;
+    left: 37%;
+    height: 10%;
+    width: 12%;
+}
+
+.home_img{
+    height: 40em;
+}
+
+.hero{
+    width: 100%;
+}
+
+#herotextparent{
+}
+
+#herotext{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99999999;
+}
